@@ -1,2 +1,2 @@
-# Melody
+# Melody - study
 Учебный проект GLO Academy
